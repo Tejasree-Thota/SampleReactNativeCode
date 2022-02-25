@@ -1,0 +1,32 @@
+{
+    "mobileMetadata": {
+        "latestAndroidVersion": "3.0.1",
+        "latestIosVersion": "3.0.1",
+        "forceUpgradeAndroidApp": false,
+        "forceUpgradeIOSApp": false,
+        "androidShowUpdateAlert": false,
+        "iosShowUpdateAlert": false,
+        "androidUpdateAlertMessage": null,
+        "iosUpdateAlertMessage": null,
+        "uploadFileSizeLimitInMB": 5,
+        "enableEmailBasedLogin": false
+    },
+    "bannerResponses": [
+        {
+            "subject": "P-EBT Link Banner Notification",
+            "desc": "UGFuZGVtaWMgRUJUIChQLUVCVCkgY2FuIGhlbHAgZmFtaWxpZXMgYnV5IGZvb2Qgd2hpbGUgc2Nob29scyBhcmUgY2xvc2VkIGR1ZSB0byBDT1ZJRC0xOS4gPGEgaHJlZj1odHRwczovL2R0YWNvbm5lY3QuZW9oaHMubWFzcy5nb3YvUEVCVD5DbGljayBoZXJlPC9hPiBpZiB5b3UgZ290IGEgUC1FQlQgY2FyZCBhbmQgbmVlZCBoZWxwIHNldHRpbmcgdXAgYSBQSU4gb3IgbmVlZCB0byByZXF1ZXN0IGEgcmVwbGFjZW1lbnQgY2FyZC4gSWYgeW91IGRvIG5vdCBnZXQgU05BUCBiZW5lZml0cywgeW91IGhhdmUgYSByaWdodCB0byBhcHBseS4gU2VlIHRoaXMgcGFnZSBmb3IgaW5mb3JtYXRpb24u",
+            "priority": 1,
+            "start_ts": "2021-03-16T15:00:00.000Z",
+            "end_ts": "2022-03-16T22:00:00.000Z",
+            "languageCD": "EN"
+        },
+        {
+            "subject": "Virtual Job fair Push Notification",
+            "desc": "VmlzaXQgTUHigJlzIGZyZWUgdmlydHVhbCBqb2IgZmFpciBBdWd1c3QgMTYgLTIwdGggZnJvbSAxMGFtIHRvIDJwbSBlYWNoIGRheS4gUmVnaXN0ZXIgJiBzZWUgcGFydGljaXBhdGluZyBlbXBsb3llcnM6IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPWh0dHBzOi8vYml0Lmx5LzN5RDBycGM+aHR0cHM6Ly9iaXQubHkvM3lEMHJwYzwvYT4=",
+            "priority": 1,
+            "start_ts": "2021-08-13T17:00:00.000Z",
+            "end_ts": "2021-08-20T18:00:00.000Z",
+            "languageCD": "EN"
+        }
+    ]
+}
